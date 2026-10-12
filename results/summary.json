@@ -1,0 +1,72 @@
+[
+  {
+    "pcap": "arppoison.pcapng",
+    "priority": "P3",
+    "conns": 29,
+    "alerts": 1,
+    "signatures": [
+      "ARP one MAC claims multiple IPs"
+    ]
+  },
+  {
+    "pcap": "cryptowall4_c2.pcapng",
+    "priority": "P3",
+    "conns": 3,
+    "alerts": 3,
+    "signatures": [
+      "MALWARE suspicious HTTP POST check-in"
+    ]
+  },
+  {
+    "pcap": "http_dvwa_directorytraversal.pcapng",
+    "priority": "P2",
+    "conns": 1,
+    "alerts": 1,
+    "signatures": [
+      "WEB directory traversal attempt"
+    ]
+  },
+  {
+    "pcap": "http_dvwa_sqlinjection.pcapng",
+    "priority": "P2",
+    "conns": 3,
+    "alerts": 3,
+    "signatures": [
+      "WEB SQL injection attempt in URI"
+    ]
+  },
+  {
+    "pcap": "smtp.pcap",
+    "priority": "P3",
+    "conns": 3,
+    "alerts": 1,
+    "signatures": [
+      "POLICY cleartext authentication on port 25"
+    ]
+  },
+  {
+    "pcap": "synscan.pcapng",
+    "priority": "P3",
+    "conns": 1994,
+    "alerts": 1,
+    "signatures": [
+      "SCAN TCP SYN port scan"
+    ]
+  },
+  {
+    "pcap": "telnet-raw.pcap",
+    "priority": "P3",
+    "conns": 1,
+    "alerts": 1,
+    "signatures": [
+      "POLICY cleartext authentication on port 23"
+    ]
+  },
+  {
+    "pcap": "dns.cap",
+    "priority": "P5 (no findings)",
+    "conns": 8,
+    "alerts": 0,
+    "signatures": []
+  }
+]

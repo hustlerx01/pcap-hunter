@@ -1,0 +1,8 @@
+arppoison.pcapng                         P3               conns=   29 alerts=  1 ['ARP one MAC claims multiple IPs']
+cryptowall4_c2.pcapng                    P3               conns=    3 alerts=  3 ['MALWARE suspicious HTTP POST check-in']
+http_dvwa_directorytraversal.pcapng      P2               conns=    1 alerts=  1 ['WEB directory traversal attempt']
+http_dvwa_sqlinjection.pcapng            P2               conns=    3 alerts=  3 ['WEB SQL injection attempt in URI']
+smtp.pcap                                P3               conns=    3 alerts=  1 ['POLICY cleartext authentication on port 25']
+synscan.pcapng                           P3               conns= 1994 alerts=  1 ['SCAN TCP SYN port scan']
+telnet-raw.pcap                          P3               conns=    1 alerts=  1 ['POLICY cleartext authentication on port 23']
+dns.cap                                  P5 (no findings) conns=    8 alerts=  0 []

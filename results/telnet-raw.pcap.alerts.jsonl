@@ -1,0 +1,1 @@
+{"sid": 1000030, "signature": "POLICY cleartext authentication on port 23", "severity": "medium", "mitre": "T1040", "src": "192.168.0.2", "dst": "192.168.0.1", "evidence": "credential prompt/exchange seen in plaintext (values redacted)"}

@@ -1,0 +1,3 @@
+{"sid": 1000041, "signature": "MALWARE suspicious HTTP POST check-in", "severity": "medium", "mitre": "T1071.001", "src": "192.168.122.145", "dst": "184.170.149.44", "evidence": "POST /76N1Lm.php?n=x4tk7t4jo6 UA=''"}
+{"sid": 1000041, "signature": "MALWARE suspicious HTTP POST check-in", "severity": "medium", "mitre": "T1071.001", "src": "192.168.122.145", "dst": "184.170.149.44", "evidence": "POST /76N1Lm.php?g=9m822y31lxud7aj UA=''"}
+{"sid": 1000041, "signature": "MALWARE suspicious HTTP POST check-in", "severity": "medium", "mitre": "T1071.001", "src": "192.168.122.145", "dst": "184.170.149.44", "evidence": "POST /76N1Lm.php?i=ttfkjb668o38k1z UA=''"}

@@ -1,0 +1,1 @@
+{"sid": 1000001, "signature": "SCAN TCP SYN port scan", "severity": "medium", "mitre": "T1046", "src": "172.16.0.8", "dst": "64.13.134.52", "evidence": "997 distinct ports unanswered/rejected, e.g. [1, 3, 4, 6, 7, 9, 13, 17]"}

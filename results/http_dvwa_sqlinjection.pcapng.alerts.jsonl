@@ -1,0 +1,3 @@
+{"sid": 1000010, "signature": "WEB SQL injection attempt in URI", "severity": "high", "mitre": "T1190", "src": "10.2.2.101", "dst": "10.2.2.104", "evidence": "/dvwa/vulnerabilities/sqli/?id=%' or '0'='0&Submit=Submit"}
+{"sid": 1000010, "signature": "WEB SQL injection attempt in URI", "severity": "high", "mitre": "T1190", "src": "10.2.2.101", "dst": "10.2.2.104", "evidence": "/dvwa/vulnerabilities/sqli/?id=%' or 0=0 union select null, version()&Submit=Submit"}
+{"sid": 1000010, "signature": "WEB SQL injection attempt in URI", "severity": "high", "mitre": "T1190", "src": "10.2.2.101", "dst": "10.2.2.104", "evidence": "/dvwa/vulnerabilities/sqli/?id=%' or 0=0 union select null, version() #&Submit=Submit"}

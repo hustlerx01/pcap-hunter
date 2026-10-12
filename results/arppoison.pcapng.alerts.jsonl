@@ -1,0 +1,1 @@
+{"sid": 1000021, "signature": "ARP one MAC claims multiple IPs", "severity": "medium", "mitre": "T1557.002", "src": "00:25:b3:bf:91:ee", "dst": "broadcast", "evidence": "IPs: ['172.16.0.1', '172.16.0.105']"}

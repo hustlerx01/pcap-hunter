@@ -1,0 +1,1 @@
+{"sid": 1000011, "signature": "WEB directory traversal attempt", "severity": "high", "mitre": "T1190", "src": "10.2.2.101", "dst": "10.2.2.104", "evidence": "/dvwa/vulnerabilities/fi/?page=../../../../../../etc/passwd"}
